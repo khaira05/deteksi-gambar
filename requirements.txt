@@ -2,6 +2,6 @@ streamlit
 tensorflow
 ultralytics
 pillow
-opencv-python-headless
+openCV-python-headless
 numpy
 pandas
